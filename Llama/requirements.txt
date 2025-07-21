@@ -1,0 +1,10 @@
+llama-index
+llama_index.embeddings.huggingface
+llama_index.readers-file
+llama_index.llms-groq
+arxiv
+llama-index-tools-tavily-research
+crewai
+crewai-tools
+ipykernel
+python-dotenv
