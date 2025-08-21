@@ -1,0 +1,15 @@
+ipykernel
+langchain
+langchain-community
+langchain-openai
+langchain-experimental
+langchainhub
+pypdf
+faiss-cpu
+python-dotenv
+pydantic
+beautifulsoup4
+wikipedia
+stackapi
+pandas
+tabulate
